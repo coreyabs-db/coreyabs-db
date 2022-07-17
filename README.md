@@ -8,6 +8,7 @@
 - 📫 How to reach me: corey.abshire@databricks.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I marched in Bill Clinton's inauguration 🇺🇸 parade as a PFC in the US Marine Corps!
+- 🙈 My personal GitHub account ➡ https://github.com/coreyabshire
 
 <!--
 **coreyabs-db/coreyabs-db** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
