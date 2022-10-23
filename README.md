@@ -7,7 +7,6 @@
 - 💬 Ask me about anything related to programming, system design, machine learning and data science.
 - 📫 How to reach me: corey.abshire@databricks.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I marched in Bill Clinton's inauguration 🇺🇸 parade as a PFC in the US Marine Corps!
 - 🙈 My personal GitHub account ➡ https://github.com/coreyabshire
 
 <!--
